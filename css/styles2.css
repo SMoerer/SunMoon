@@ -76,7 +76,7 @@ nav ul li a:hover {
 }
 
 #main p {
-    text-indent: 1.5em;
+    text-align: right;
 }
 
 figure{
@@ -131,7 +131,7 @@ footer {
     border: 2px solid;
     border-radius: 25px;
 
-	
+
 }/* navigation for footer */
 footer a:link {
     color: white;
